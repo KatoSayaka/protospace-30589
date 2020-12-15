@@ -11,7 +11,7 @@
 
 ### Association
 - has_many :comments
-- has_many :prototype
+- has_many :prototypes
 
 ## commentsテーブル
 
